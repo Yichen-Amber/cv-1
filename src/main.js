@@ -43,9 +43,6 @@ let string =
      rgba(255,255,255,1) 25%, rgba(0,0,0,1) 25%, rgba(0,0,0,1) 100%);
     
 }
-
-
-
 #div1::after{
     width:100px;
     height:100px;
